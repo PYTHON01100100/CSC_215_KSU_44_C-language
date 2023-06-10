@@ -1,0 +1,29 @@
+4
+b
+The C Programming Language
+475
+p
+140.0
+131103628
+m
+From data types to object types
+26
+p
+25.0
+8630593
+26
+1
+m
+Automated Quality Assessment of Metadata across Open Data Portals
+28
+p
+25.0
+19361955
+8
+1
+b
+The Linux Programming Interface: A Linux and UNIX System Programming Handbook
+1552
+h
+200.0
+1593272200
