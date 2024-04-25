@@ -6,3 +6,6 @@
 #link : https://youtu.be/xQLlltomBx0
 
 # Ahmad AlShibli : https://youtube.com/playlist?list=PL-5XyBwqpAdGmlTAaPKQsINS_H4NpETcM&si=A1M--CjqqOmtyuUd
+
+
+# harmash : https://harmash.com/books/c-programming?fbclid=IwZXh0bgNhZW0CMTAAAR0nMryn1k7WHre2ncigVrERN7Hyu275xsm0DBCV3NEl6Np8dtb1RfseVYo_aem_AZWL4krwlCRa5pGyvSsd0P9R2BJR3GKF8bg7Mt4W6oC14QzglFfBi5qHCk0C_wbSAyP0cTc0py5BKMqX0uQNgtJG
