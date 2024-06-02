@@ -4,7 +4,7 @@
 # link : https://youtu.be/FEeFG9OR-QU
 #How to Run C/C++ program In VS Code Terminal | Unable to Write Input Text in Output Console
 #link : https://youtu.be/xQLlltomBx0
-
+# TheAlgorithms : https://github.com/TheAlgorithms/C
 # Ahmad AlShibli : https://youtube.com/playlist?list=PL-5XyBwqpAdGmlTAaPKQsINS_H4NpETcM&si=A1M--CjqqOmtyuUd
 
 
